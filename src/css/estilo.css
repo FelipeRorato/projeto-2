@@ -136,7 +136,7 @@ header nav ul li a:hover{
     background-clip:text;
 }
 /* RESPONSIVIDADE MENU HAMBURGUER */
-@media(max-width:768px){
+@media(max-width:1920px){
     header{
         position:relative;
 
